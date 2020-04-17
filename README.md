@@ -1,1 +1,1 @@
-# m4l_whir
+# Max4Live device - WHIR
